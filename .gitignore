@@ -2,3 +2,5 @@
 *.pdf
 \!AhenovRM.pdf
 \!AhynovRM.pdf
+bin/
+obj/
