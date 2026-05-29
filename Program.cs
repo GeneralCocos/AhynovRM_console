@@ -14,3 +14,4 @@ internal class Program
         Console.WriteLine(Sqr(5));
     }
 }
+//solve task3
