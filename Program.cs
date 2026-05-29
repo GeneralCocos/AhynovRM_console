@@ -1,6 +1,7 @@
 ﻿// Ахунов Руслан Маратович Ам-1-25
 //new_feature
 //solve task2
+//solve task3
 internal class Program
 {
     static public double Sqr(double X)
